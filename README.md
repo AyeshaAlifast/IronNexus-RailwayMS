@@ -8,9 +8,6 @@ using custom data structures (no STL containers).
 - Muhammad Abdullah | 22i-0802
 - Dayyan Azhar | 23i-6028
 
-## 📚 Course
-Data Structures — Spring 2026 | NUCES
-
 ## 🏗️ System Architecture
 
 | Module | Data Structure | Description |

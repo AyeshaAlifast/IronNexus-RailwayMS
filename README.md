@@ -35,8 +35,8 @@ using custom data structures (no STL containers).
 g++ -std=c++14 main.cpp Coach.cpp Logger.cpp Network.cpp Seat.cpp Train.cpp UI.cpp UndoRedo.cpp -o IronNexus
 ./IronNexus
 ```
-
-## 📁 File Structure 
+## 📁 File Structure
+```
 ├── Common.h        # Shared constants, enums, utilities
 ├── UI.h / UI.cpp   # Terminal I/O helpers
 ├── Train.h/.cpp    # Module 1 - AVL Tree
@@ -46,6 +46,9 @@ g++ -std=c++14 main.cpp Coach.cpp Logger.cpp Network.cpp Seat.cpp Train.cpp UI.c
 ├── Logger.h/.cpp   # Module 5 - Stack
 ├── UndoRedo.h/.cpp # Bonus - Undo/Redo
 └── main.cpp        # Entry point
+```
+
+
 
 ## ⚙️ Constraints
 - No STL containers used

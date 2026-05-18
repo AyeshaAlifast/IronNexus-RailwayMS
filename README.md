@@ -5,8 +5,8 @@ using custom data structures (no STL containers).
 
 ## 👥 Group Members
 - Ayesha Ali | 22i-2128
-- [Muhammad Abdullah] | [22i-0802]
-- [Dayyan Azhar] | [23i-6028]
+- Muhammad Abdullah | 22i-0802
+- Dayyan Azhar | 23i-6028
 
 ## 📚 Course
 Data Structures — Spring 2026 | NUCES
